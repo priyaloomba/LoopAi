@@ -7,7 +7,7 @@ Modular and lightweight
 Ready for deployment with uvicorn
 Project Structure
 LoopAI/
-└── data-ingestion-api/
+└── 
     ├── main.py               # Entry point for the FastAPI app
     ├── requirements.txt      # Python dependencies
     └── venv/                 # Local virtual environment (not recommended for version control)
